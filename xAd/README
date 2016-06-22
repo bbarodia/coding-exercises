@@ -1,0 +1,6 @@
+To Compile project, you will need java 8 and maven installed.
+Also the machine will require access to a maven repo to get the dependencies
+
+1) Run "mvn clean install" to compile and create jar file
+
+2) Execute "./bin/runETL.sh -p [threadCount]"

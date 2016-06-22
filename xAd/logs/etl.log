@@ -1,0 +1,417 @@
+2016-06-21 00:04:07,785 INFO - Thread Count not given. Using default value 5
+2016-06-21 00:04:07,927 INFO - Hour 2016-05-18 ETL start
+2016-06-21 00:04:07,927 INFO - Hour 2016-05-16 ETL start
+2016-06-21 00:04:07,927 INFO - Hour 2016-05-17 ETL start
+2016-06-21 00:04:07,927 INFO - Hour 2016-05-19 ETL start
+2016-06-21 00:04:07,927 INFO - Hour 2016-05-15 ETL start
+2016-06-21 00:04:07,970 INFO - Hour 2016-05-19 complete, elapsed time: 0s
+2016-06-21 00:04:07,970 INFO - Hour 2016-05-17 complete, elapsed time: 0s
+2016-06-21 00:04:07,971 INFO - Hour 2016-05-20 ETL start
+2016-06-21 00:04:07,971 INFO - Hour 2016-05-21 ETL start
+2016-06-21 00:04:07,972 INFO - Hour 2016-05-18 complete, elapsed time: 0s
+2016-06-21 00:04:07,972 INFO - Hour 2016-05-22 ETL start
+2016-06-21 00:04:07,972 INFO - Hour 2016-05-16 complete, elapsed time: 0s
+2016-06-21 00:04:07,973 INFO - Hour 2016-05-23 ETL start
+2016-06-21 00:04:07,973 INFO - Hour 2016-05-15 complete, elapsed time: 0s
+2016-06-21 00:04:07,973 INFO - Hour 2016-05-24 ETL start
+2016-06-21 00:04:07,985 INFO - Hour 2016-05-20 complete, elapsed time: 0s
+2016-06-21 00:04:07,986 INFO - Hour 2016-05-25 ETL start
+2016-06-21 00:04:07,987 INFO - Hour 2016-05-21 complete, elapsed time: 0s
+2016-06-21 00:04:07,987 INFO - Hour 2016-05-26 ETL start
+2016-06-21 00:04:07,988 INFO - Hour 2016-05-24 complete, elapsed time: 0s
+2016-06-21 00:04:07,988 INFO - Hour 2016-05-27 ETL start
+2016-06-21 00:04:07,995 INFO - Hour 2016-05-22 complete, elapsed time: 0s
+2016-06-21 00:04:07,996 INFO - Hour 2016-05-28 ETL start
+2016-06-21 00:04:07,998 INFO - Hour 2016-05-23 complete, elapsed time: 0s
+2016-06-21 00:04:07,999 INFO - Hour 2016-05-29 ETL start
+2016-06-21 00:04:08,001 INFO - Hour 2016-05-25 complete, elapsed time: 0s
+2016-06-21 00:04:08,001 INFO - Hour 2016-05-30 ETL start
+2016-06-21 00:04:08,002 INFO - Hour 2016-05-27 complete, elapsed time: 0s
+2016-06-21 00:04:08,002 INFO - Hour 2016-05-31 ETL start
+2016-06-21 00:04:08,007 INFO - Hour 2016-05-28 complete, elapsed time: 0s
+2016-06-21 00:04:08,007 INFO - Hour 2016-06-01 ETL start
+2016-06-21 00:04:08,017 INFO - Hour 2016-05-30 complete, elapsed time: 0s
+2016-06-21 00:04:08,017 INFO - Hour 2016-06-02 ETL start
+2016-06-21 00:04:08,020 INFO - Hour 2016-05-29 complete, elapsed time: 0s
+2016-06-21 00:04:08,021 INFO - Hour 2016-06-03 ETL start
+2016-06-21 00:04:08,025 INFO - Hour 2016-05-31 complete, elapsed time: 0s
+2016-06-21 00:04:08,025 INFO - Hour 2016-06-04 ETL start
+2016-06-21 00:04:08,026 INFO - Hour 2016-06-02 complete, elapsed time: 0s
+2016-06-21 00:04:08,026 INFO - Hour 2016-06-05 ETL start
+2016-06-21 00:04:08,034 INFO - Hour 2016-06-03 complete, elapsed time: 0s
+2016-06-21 00:04:08,034 INFO - Hour 2016-05-26 complete, elapsed time: 0s
+2016-06-21 00:04:08,034 INFO - Hour 2016-06-06 ETL start
+2016-06-21 00:04:08,034 INFO - Hour 2016-06-07 ETL start
+2016-06-21 00:04:08,034 INFO - Hour 2016-06-04 complete, elapsed time: 0s
+2016-06-21 00:04:08,034 INFO - Hour 2016-06-05 complete, elapsed time: 0s
+2016-06-21 00:04:08,035 INFO - Hour 2016-06-08 ETL start
+2016-06-21 00:04:08,035 INFO - Hour 2016-06-09 ETL start
+2016-06-21 00:04:08,036 INFO - Hour 2016-06-01 complete, elapsed time: 0s
+2016-06-21 00:04:08,037 INFO - Hour 2016-06-10 ETL start
+2016-06-21 00:04:08,043 INFO - Hour 2016-06-06 complete, elapsed time: 0s
+2016-06-21 00:04:08,044 INFO - Hour 2016-06-11 ETL start
+2016-06-21 00:04:08,044 INFO - Hour 2016-06-07 complete, elapsed time: 0s
+2016-06-21 00:04:08,045 INFO - Hour 2016-06-12 ETL start
+2016-06-21 00:04:08,046 INFO - Hour 2016-06-08 complete, elapsed time: 0s
+2016-06-21 00:04:08,046 INFO - Hour 2016-06-13 ETL start
+2016-06-21 00:04:08,047 INFO - Hour 2016-06-10 complete, elapsed time: 0s
+2016-06-21 00:04:08,048 INFO - Hour 2016-06-14 ETL start
+2016-06-21 00:04:08,052 INFO - Hour 2016-06-12 complete, elapsed time: 0s
+2016-06-21 00:04:08,053 INFO - Hour 2016-06-15 ETL start
+2016-06-21 00:04:08,053 INFO - Hour 2016-06-13 complete, elapsed time: 0s
+2016-06-21 00:04:08,054 INFO - Hour 2016-06-16 ETL start
+2016-06-21 00:04:08,061 INFO - Hour 2016-06-14 complete, elapsed time: 0s
+2016-06-21 00:04:08,061 INFO - Hour 2016-06-17 ETL start
+2016-06-21 00:04:08,062 INFO - Hour 2016-06-09 complete, elapsed time: 0s
+2016-06-21 00:04:08,062 INFO - Hour 2016-06-18 ETL start
+2016-06-21 00:04:08,063 INFO - Hour 2016-06-11 complete, elapsed time: 0s
+2016-06-21 00:04:08,063 INFO - Hour 2016-06-19 ETL start
+2016-06-21 00:04:08,067 INFO - Hour 2016-06-16 complete, elapsed time: 0s
+2016-06-21 00:04:08,068 INFO - Hour 2016-06-20 ETL start
+2016-06-21 00:04:08,068 INFO - Hour 2016-06-17 complete, elapsed time: 0s
+2016-06-21 00:04:08,069 INFO - Hour 2016-06-21 ETL start
+2016-06-21 00:04:08,072 INFO - Hour 2016-06-19 complete, elapsed time: 0s
+2016-06-21 00:04:08,072 INFO - Hour 2016-06-15 complete, elapsed time: 0s
+2016-06-21 00:04:08,072 INFO - Hour 2016-06-22 ETL start
+2016-06-21 00:04:08,076 INFO - Hour 2016-06-21 complete, elapsed time: 0s
+2016-06-21 00:04:08,076 INFO - Hour 2016-06-23 ETL start
+2016-06-21 00:04:08,078 INFO - Hour 2016-06-24 ETL start
+2016-06-21 00:04:08,078 INFO - Hour 2016-06-20 complete, elapsed time: 0s
+2016-06-21 00:04:08,078 INFO - Hour 2016-06-25 ETL start
+2016-06-21 00:04:08,079 INFO - Hour 2016-06-18 complete, elapsed time: 0s
+2016-06-21 00:04:08,079 INFO - Hour 2016-06-26 ETL start
+2016-06-21 00:04:08,082 INFO - Hour 2016-06-23 complete, elapsed time: 0s
+2016-06-21 00:04:08,082 INFO - Hour 2016-06-27 ETL start
+2016-06-21 00:04:08,084 INFO - Hour 2016-06-22 complete, elapsed time: 0s
+2016-06-21 00:04:08,084 INFO - Hour 2016-06-28 ETL start
+2016-06-21 00:04:08,088 INFO - Hour 2016-06-26 complete, elapsed time: 0s
+2016-06-21 00:04:08,088 INFO - Hour 2016-06-29 ETL start
+2016-06-21 00:04:08,089 INFO - Hour 2016-06-24 complete, elapsed time: 0s
+2016-06-21 00:04:08,089 INFO - Hour 2016-06-30 ETL start
+2016-06-21 00:04:08,089 INFO - Hour 2016-06-25 complete, elapsed time: 0s
+2016-06-21 00:04:08,089 INFO - Hour 2016-07-01 ETL start
+2016-06-21 00:04:08,090 INFO - Hour 2016-06-27 complete, elapsed time: 0s
+2016-06-21 00:04:08,090 INFO - Hour 2016-07-02 ETL start
+2016-06-21 00:04:08,093 INFO - Hour 2016-06-28 complete, elapsed time: 0s
+2016-06-21 00:04:08,094 INFO - Hour 2016-07-03 ETL start
+2016-06-21 00:04:08,094 INFO - Hour 2016-06-29 complete, elapsed time: 0s
+2016-06-21 00:04:08,094 INFO - Hour 2016-07-04 ETL start
+2016-06-21 00:04:08,096 INFO - Hour 2016-07-01 complete, elapsed time: 0s
+2016-06-21 00:04:08,096 INFO - Hour 2016-07-05 ETL start
+2016-06-21 00:04:08,097 INFO - Hour 2016-06-30 complete, elapsed time: 0s
+2016-06-21 00:04:08,097 INFO - Hour 2016-07-06 ETL start
+2016-06-21 00:04:08,098 INFO - Hour 2016-07-02 complete, elapsed time: 0s
+2016-06-21 00:04:08,098 INFO - Hour 2016-07-07 ETL start
+2016-06-21 00:04:08,102 INFO - Hour 2016-07-04 complete, elapsed time: 0s
+2016-06-21 00:04:08,103 INFO - Hour 2016-07-08 ETL start
+2016-06-21 00:04:08,103 INFO - Hour 2016-07-03 complete, elapsed time: 0s
+2016-06-21 00:04:08,103 INFO - Hour 2016-07-09 ETL start
+2016-06-21 00:04:08,104 INFO - Hour 2016-07-07 complete, elapsed time: 0s
+2016-06-21 00:04:08,105 INFO - Hour 2016-07-10 ETL start
+2016-06-21 00:04:08,109 INFO - Hour 2016-07-09 complete, elapsed time: 0s
+2016-06-21 00:04:08,109 INFO - Hour 2016-07-11 ETL start
+2016-06-21 00:04:08,112 INFO - Hour 2016-07-05 complete, elapsed time: 0s
+2016-06-21 00:04:08,112 INFO - Hour 2016-07-10 complete, elapsed time: 0s
+2016-06-21 00:04:08,112 INFO - Hour 2016-07-12 ETL start
+2016-06-21 00:04:08,112 INFO - Hour 2016-07-13 ETL start
+2016-06-21 00:04:08,123 INFO - Hour 2016-07-06 complete, elapsed time: 0s
+2016-06-21 00:04:08,124 INFO - Hour 2016-07-14 ETL start
+2016-06-21 00:04:08,126 INFO - Hour 2016-07-12 complete, elapsed time: 0s
+2016-06-21 00:04:08,126 INFO - Hour 2016-07-15 ETL start
+2016-06-21 00:04:08,128 INFO - Hour 2016-07-11 complete, elapsed time: 0s
+2016-06-21 00:04:08,128 INFO - Hour 2016-07-16 ETL start
+2016-06-21 00:04:08,130 INFO - Hour 2016-07-08 complete, elapsed time: 0s
+2016-06-21 00:04:08,130 INFO - Hour 2016-07-14 complete, elapsed time: 0s
+2016-06-21 00:04:08,130 INFO - Hour 2016-07-17 ETL start
+2016-06-21 00:04:08,131 INFO - Hour 2016-07-15 complete, elapsed time: 0s
+2016-06-21 00:04:08,131 INFO - Hour 2016-07-18 ETL start
+2016-06-21 00:04:08,131 INFO - Hour 2016-07-19 ETL start
+2016-06-21 00:04:08,132 INFO - Hour 2016-07-13 complete, elapsed time: 0s
+2016-06-21 00:04:08,132 INFO - Hour 2016-07-20 ETL start
+2016-06-21 00:04:08,138 INFO - Hour 2016-07-16 complete, elapsed time: 0s
+2016-06-21 00:04:08,141 INFO - Hour 2016-07-21 ETL start
+2016-06-21 00:04:08,142 INFO - Hour 2016-07-17 complete, elapsed time: 0s
+2016-06-21 00:04:08,142 INFO - Hour 2016-07-22 ETL start
+2016-06-21 00:04:08,142 INFO - Hour 2016-07-18 complete, elapsed time: 0s
+2016-06-21 00:04:08,144 INFO - Hour 2016-07-23 ETL start
+2016-06-21 00:04:08,144 INFO - Hour 2016-07-19 complete, elapsed time: 0s
+2016-06-21 00:04:08,144 INFO - Hour 2016-07-24 ETL start
+2016-06-21 00:04:08,145 INFO - Hour 2016-07-20 complete, elapsed time: 0s
+2016-06-21 00:04:08,145 INFO - Hour 2016-07-25 ETL start
+2016-06-21 00:04:08,148 INFO - Hour 2016-07-22 complete, elapsed time: 0s
+2016-06-21 00:04:08,148 INFO - Hour 2016-07-26 ETL start
+2016-06-21 00:04:08,150 INFO - Hour 2016-07-21 complete, elapsed time: 0s
+2016-06-21 00:04:08,150 INFO - Hour 2016-07-23 complete, elapsed time: 0s
+2016-06-21 00:04:08,151 INFO - Hour 2016-07-27 ETL start
+2016-06-21 00:04:08,151 INFO - Hour 2016-07-25 complete, elapsed time: 0s
+2016-06-21 00:04:08,151 INFO - Hour 2016-07-29 ETL start
+2016-06-21 00:04:08,151 INFO - Hour 2016-07-28 ETL start
+2016-06-21 00:04:08,152 INFO - Hour 2016-07-24 complete, elapsed time: 0s
+2016-06-21 00:04:08,152 INFO - Hour 2016-07-30 ETL start
+2016-06-21 00:04:08,156 INFO - Hour 2016-07-28 complete, elapsed time: 0s
+2016-06-21 00:04:08,156 INFO - Hour 2016-07-31 ETL start
+2016-06-21 00:04:08,157 INFO - Hour 2016-07-30 complete, elapsed time: 0s
+2016-06-21 00:04:08,157 INFO - Hour 2016-08-01 ETL start
+2016-06-21 00:04:08,163 INFO - Hour 2016-07-26 complete, elapsed time: 0s
+2016-06-21 00:04:08,163 INFO - Hour 2016-08-01 complete, elapsed time: 0s
+2016-06-21 00:04:08,163 INFO - Hour 2016-07-29 complete, elapsed time: 0s
+2016-06-21 00:04:08,163 INFO - Hour 2016-08-03 ETL start
+2016-06-21 00:04:08,163 INFO - Hour 2016-08-02 ETL start
+2016-06-21 00:04:08,163 INFO - Hour 2016-08-04 ETL start
+2016-06-21 00:04:08,164 INFO - Hour 2016-07-27 complete, elapsed time: 0s
+2016-06-21 00:04:08,165 INFO - Hour 2016-08-05 ETL start
+2016-06-21 00:04:08,168 INFO - Hour 2016-07-31 complete, elapsed time: 0s
+2016-06-21 00:04:08,168 INFO - Hour 2016-08-06 ETL start
+2016-06-21 00:04:08,173 INFO - Hour 2016-08-02 complete, elapsed time: 0s
+2016-06-21 00:04:08,173 INFO - Hour 2016-08-04 complete, elapsed time: 0s
+2016-06-21 00:04:08,174 INFO - Hour 2016-08-05 complete, elapsed time: 0s
+2016-06-21 00:04:08,174 INFO - Hour 2016-08-07 ETL start
+2016-06-21 00:04:08,174 INFO - Hour 2016-08-08 ETL start
+2016-06-21 00:04:08,174 INFO - Hour 2016-08-06 complete, elapsed time: 0s
+2016-06-21 00:04:08,174 INFO - Hour 2016-08-09 ETL start
+2016-06-21 00:04:08,176 INFO - Hour 2016-08-10 ETL start
+2016-06-21 00:04:08,176 INFO - Hour 2016-08-03 complete, elapsed time: 0s
+2016-06-21 00:04:08,176 INFO - Hour 2016-08-11 ETL start
+2016-06-21 00:04:08,181 INFO - Hour 2016-08-08 complete, elapsed time: 0s
+2016-06-21 00:04:08,182 INFO - Hour 2016-08-09 complete, elapsed time: 0s
+2016-06-21 00:04:08,182 INFO - Hour 2016-08-12 ETL start
+2016-06-21 00:04:08,182 INFO - Hour 2016-08-13 ETL start
+2016-06-21 00:04:08,184 INFO - Hour 2016-08-07 complete, elapsed time: 0s
+2016-06-21 00:04:08,184 INFO - Hour 2016-08-10 complete, elapsed time: 0s
+2016-06-21 00:04:08,184 INFO - Hour 2016-08-14 ETL start
+2016-06-21 00:04:08,188 INFO - Hour 2016-08-13 complete, elapsed time: 0s
+2016-06-21 00:04:08,189 INFO - Hour 2016-08-15 ETL start
+2016-06-21 00:04:08,189 INFO - Hour 2016-08-16 ETL start
+2016-06-21 00:04:08,189 INFO - Hour 2016-08-12 complete, elapsed time: 0s
+2016-06-21 00:04:08,189 INFO - Hour 2016-08-11 complete, elapsed time: 0s
+2016-06-21 00:04:08,189 INFO - Hour 2016-08-17 ETL start
+2016-06-21 00:04:08,190 INFO - Hour 2016-08-14 complete, elapsed time: 0s
+2016-06-21 00:04:08,190 INFO - Hour 2016-08-18 ETL start
+2016-06-21 00:04:08,190 INFO - Hour 2016-08-19 ETL start
+2016-06-21 00:04:08,197 INFO - Hour 2016-08-18 complete, elapsed time: 0s
+2016-06-21 00:04:08,197 INFO - Hour 2016-08-19 complete, elapsed time: 0s
+2016-06-21 00:04:08,197 INFO - Hour 2016-08-15 complete, elapsed time: 0s
+2016-06-21 00:04:08,197 INFO - Hour 2016-08-20 ETL start
+2016-06-21 00:04:08,197 INFO - Hour 2016-08-21 ETL start
+2016-06-21 00:04:08,197 INFO - Hour 2016-08-22 ETL start
+2016-06-21 00:04:08,203 INFO - Hour 2016-08-22 complete, elapsed time: 0s
+2016-06-21 00:04:08,203 INFO - Hour 2016-08-23 ETL start
+2016-06-21 00:04:08,203 INFO - Hour 2016-08-21 complete, elapsed time: 0s
+2016-06-21 00:04:08,203 INFO - Hour 2016-08-20 complete, elapsed time: 0s
+2016-06-21 00:04:08,204 INFO - Hour 2016-08-24 ETL start
+2016-06-21 00:04:08,206 INFO - Hour 2016-08-25 ETL start
+2016-06-21 00:04:08,207 INFO - Hour 2016-08-16 complete, elapsed time: 0s
+2016-06-21 00:04:08,208 INFO - Hour 2016-08-26 ETL start
+2016-06-21 00:04:08,208 INFO - Hour 2016-08-17 complete, elapsed time: 0s
+2016-06-21 00:04:08,209 INFO - Hour 2016-08-27 ETL start
+2016-06-21 00:04:08,211 INFO - Hour 2016-08-23 complete, elapsed time: 0s
+2016-06-21 00:04:08,212 INFO - Hour 2016-08-25 complete, elapsed time: 0s
+2016-06-21 00:04:08,212 INFO - Hour 2016-08-28 ETL start
+2016-06-21 00:04:08,212 INFO - Hour 2016-08-29 ETL start
+2016-06-21 00:04:08,213 INFO - Hour 2016-08-26 complete, elapsed time: 0s
+2016-06-21 00:04:08,213 INFO - Hour 2016-08-27 complete, elapsed time: 0s
+2016-06-21 00:04:08,213 INFO - Hour 2016-08-30 ETL start
+2016-06-21 00:04:08,213 INFO - Hour 2016-08-31 ETL start
+2016-06-21 00:04:08,216 INFO - Hour 2016-08-24 complete, elapsed time: 0s
+2016-06-21 00:04:08,216 INFO - Hour 2016-09-01 ETL start
+2016-06-21 00:04:08,217 INFO - Hour 2016-08-29 complete, elapsed time: 0s
+2016-06-21 00:04:08,218 INFO - Hour 2016-09-02 ETL start
+2016-06-21 00:04:08,218 INFO - Hour 2016-08-28 complete, elapsed time: 0s
+2016-06-21 00:04:08,218 INFO - Hour 2016-09-03 ETL start
+2016-06-21 00:04:08,219 INFO - Hour 2016-08-30 complete, elapsed time: 0s
+2016-06-21 00:04:08,219 INFO - Hour 2016-08-31 complete, elapsed time: 0s
+2016-06-21 00:04:08,219 INFO - Hour 2016-09-04 ETL start
+2016-06-21 00:04:08,219 INFO - Hour 2016-09-05 ETL start
+2016-06-21 00:04:08,223 INFO - Hour 2016-09-02 complete, elapsed time: 0s
+2016-06-21 00:04:08,223 INFO - Hour 2016-09-06 ETL start
+2016-06-21 00:04:08,225 INFO - Hour 2016-09-04 complete, elapsed time: 0s
+2016-06-21 00:04:08,225 INFO - Hour 2016-09-05 complete, elapsed time: 0s
+2016-06-21 00:04:08,225 INFO - Hour 2016-09-03 complete, elapsed time: 0s
+2016-06-21 00:04:08,225 INFO - Hour 2016-09-07 ETL start
+2016-06-21 00:04:08,225 INFO - Hour 2016-09-08 ETL start
+2016-06-21 00:04:08,225 INFO - Hour 2016-09-09 ETL start
+2016-06-21 00:04:08,228 INFO - Hour 2016-09-06 complete, elapsed time: 0s
+2016-06-21 00:04:08,228 INFO - Hour 2016-09-10 ETL start
+2016-06-21 00:04:08,229 INFO - Hour 2016-09-01 complete, elapsed time: 0s
+2016-06-21 00:04:08,229 INFO - Hour 2016-09-11 ETL start
+2016-06-21 00:04:08,231 INFO - Hour 2016-09-08 complete, elapsed time: 0s
+2016-06-21 00:04:08,231 INFO - Hour 2016-09-09 complete, elapsed time: 0s
+2016-06-21 00:04:08,231 INFO - Hour 2016-09-12 ETL start
+2016-06-21 00:04:08,232 INFO - Hour 2016-09-13 ETL start
+2016-06-21 00:04:08,234 INFO - Hour 2016-09-07 complete, elapsed time: 0s
+2016-06-21 00:04:08,234 INFO - Hour 2016-09-14 ETL start
+2016-06-21 00:04:08,235 INFO - Hour 2016-09-10 complete, elapsed time: 0s
+2016-06-21 00:04:08,235 INFO - Hour 2016-09-15 ETL start
+2016-06-21 00:04:08,236 INFO - Hour 2016-09-11 complete, elapsed time: 0s
+2016-06-21 00:04:08,236 INFO - Hour 2016-09-16 ETL start
+2016-06-21 00:04:08,236 INFO - Hour 2016-09-13 complete, elapsed time: 0s
+2016-06-21 00:04:08,236 INFO - Hour 2016-09-17 ETL start
+2016-06-21 00:04:08,238 INFO - Hour 2016-09-12 complete, elapsed time: 0s
+2016-06-21 00:04:08,238 INFO - Hour 2016-09-18 ETL start
+2016-06-21 00:04:08,239 INFO - Hour 2016-09-14 complete, elapsed time: 0s
+2016-06-21 00:04:08,239 INFO - Hour 2016-09-19 ETL start
+2016-06-21 00:04:08,241 INFO - Hour 2016-09-16 complete, elapsed time: 0s
+2016-06-21 00:04:08,241 INFO - Hour 2016-09-20 ETL start
+2016-06-21 00:04:08,241 INFO - Hour 2016-09-15 complete, elapsed time: 0s
+2016-06-21 00:04:08,241 INFO - Hour 2016-09-21 ETL start
+2016-06-21 00:04:08,245 INFO - Hour 2016-09-18 complete, elapsed time: 0s
+2016-06-21 00:04:08,245 INFO - Hour 2016-09-22 ETL start
+2016-06-21 00:04:08,246 INFO - Hour 2016-09-20 complete, elapsed time: 0s
+2016-06-21 00:04:08,246 INFO - Hour 2016-09-23 ETL start
+2016-06-21 00:04:08,246 INFO - Hour 2016-09-19 complete, elapsed time: 0s
+2016-06-21 00:04:08,247 INFO - Hour 2016-09-24 ETL start
+2016-06-21 00:04:08,247 INFO - Hour 2016-09-21 complete, elapsed time: 0s
+2016-06-21 00:04:08,247 INFO - Hour 2016-09-17 complete, elapsed time: 0s
+2016-06-21 00:04:08,247 INFO - Hour 2016-09-25 ETL start
+2016-06-21 00:04:08,247 INFO - Hour 2016-09-26 ETL start
+2016-06-21 00:04:08,250 INFO - Hour 2016-09-22 complete, elapsed time: 0s
+2016-06-21 00:04:08,250 INFO - Hour 2016-09-27 ETL start
+2016-06-21 00:04:08,251 INFO - Hour 2016-09-24 complete, elapsed time: 0s
+2016-06-21 00:04:08,251 INFO - Hour 2016-09-28 ETL start
+2016-06-21 00:04:08,251 INFO - Hour 2016-09-26 complete, elapsed time: 0s
+2016-06-21 00:04:08,252 INFO - Hour 2016-09-29 ETL start
+2016-06-21 00:04:08,255 INFO - Hour 2016-09-28 complete, elapsed time: 0s
+2016-06-21 00:04:08,255 INFO - Hour 2016-09-30 ETL start
+2016-06-21 00:04:08,256 INFO - Hour 2016-09-23 complete, elapsed time: 0s
+2016-06-21 00:04:08,257 INFO - Hour 2016-10-01 ETL start
+2016-06-21 00:04:08,258 INFO - Hour 2016-09-29 complete, elapsed time: 0s
+2016-06-21 00:04:08,258 INFO - Hour 2016-10-02 ETL start
+2016-06-21 00:04:08,262 INFO - Hour 2016-09-27 complete, elapsed time: 0s
+2016-06-21 00:04:08,262 INFO - Hour 2016-10-01 complete, elapsed time: 0s
+2016-06-21 00:04:08,264 INFO - Hour 2016-10-03 ETL start
+2016-06-21 00:04:08,264 INFO - Hour 2016-10-04 ETL start
+2016-06-21 00:04:08,265 INFO - Hour 2016-10-02 complete, elapsed time: 0s
+2016-06-21 00:04:08,265 INFO - Hour 2016-09-25 complete, elapsed time: 0s
+2016-06-21 00:04:08,265 INFO - Hour 2016-10-05 ETL start
+2016-06-21 00:04:08,265 INFO - Hour 2016-10-06 ETL start
+2016-06-21 00:04:08,267 INFO - Hour 2016-09-30 complete, elapsed time: 0s
+2016-06-21 00:04:08,267 INFO - Hour 2016-10-07 ETL start
+2016-06-21 00:04:08,271 INFO - Hour 2016-10-05 complete, elapsed time: 0s
+2016-06-21 00:04:08,271 INFO - Hour 2016-10-03 complete, elapsed time: 0s
+2016-06-21 00:04:08,272 INFO - Hour 2016-10-04 complete, elapsed time: 0s
+2016-06-21 00:04:08,272 INFO - Hour 2016-10-08 ETL start
+2016-06-21 00:04:08,272 INFO - Hour 2016-10-09 ETL start
+2016-06-21 00:04:08,272 INFO - Hour 2016-10-07 complete, elapsed time: 0s
+2016-06-21 00:04:08,272 INFO - Hour 2016-10-10 ETL start
+2016-06-21 00:04:08,272 INFO - Hour 2016-10-06 complete, elapsed time: 0s
+2016-06-21 00:04:08,272 INFO - Hour 2016-10-11 ETL start
+2016-06-21 00:04:08,273 INFO - Hour 2016-10-12 ETL start
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-10 complete, elapsed time: 0s
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-09 complete, elapsed time: 0s
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-12 complete, elapsed time: 0s
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-11 complete, elapsed time: 0s
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-08 complete, elapsed time: 0s
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-13 ETL start
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-15 ETL start
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-14 ETL start
+2016-06-21 00:04:08,279 INFO - Hour 2016-10-16 ETL start
+2016-06-21 00:04:08,282 INFO - Hour 2016-10-17 ETL start
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-16 complete, elapsed time: 0s
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-13 complete, elapsed time: 0s
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-14 complete, elapsed time: 0s
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-18 ETL start
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-19 ETL start
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-20 ETL start
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-17 complete, elapsed time: 0s
+2016-06-21 00:04:08,287 INFO - Hour 2016-10-21 ETL start
+2016-06-21 00:04:08,288 INFO - Hour 2016-10-15 complete, elapsed time: 0s
+2016-06-21 00:04:08,288 INFO - Hour 2016-10-22 ETL start
+2016-06-21 00:04:08,293 INFO - Hour 2016-10-19 complete, elapsed time: 0s
+2016-06-21 00:04:08,294 INFO - Hour 2016-10-23 ETL start
+2016-06-21 00:04:08,294 INFO - Hour 2016-10-20 complete, elapsed time: 0s
+2016-06-21 00:04:08,294 INFO - Hour 2016-10-24 ETL start
+2016-06-21 00:04:08,294 INFO - Hour 2016-10-22 complete, elapsed time: 0s
+2016-06-21 00:04:08,294 INFO - Hour 2016-10-18 complete, elapsed time: 0s
+2016-06-21 00:04:08,294 INFO - Hour 2016-10-25 ETL start
+2016-06-21 00:04:08,294 INFO - Hour 2016-10-26 ETL start
+2016-06-21 00:04:08,303 INFO - Hour 2016-10-25 complete, elapsed time: 0s
+2016-06-21 00:04:08,304 INFO - Hour 2016-10-27 ETL start
+2016-06-21 00:04:08,305 INFO - Hour 2016-10-23 complete, elapsed time: 0s
+2016-06-21 00:04:08,305 INFO - Hour 2016-10-26 complete, elapsed time: 0s
+2016-06-21 00:04:08,306 INFO - Hour 2016-10-29 ETL start
+2016-06-21 00:04:08,306 INFO - Hour 2016-10-28 ETL start
+2016-06-21 00:04:08,308 INFO - Hour 2016-10-27 complete, elapsed time: 0s
+2016-06-21 00:04:08,308 INFO - Hour 2016-10-30 ETL start
+2016-06-21 00:04:08,310 INFO - Hour 2016-10-29 complete, elapsed time: 0s
+2016-06-21 00:04:08,310 INFO - Hour 2016-10-31 ETL start
+2016-06-21 00:04:08,311 INFO - Hour 2016-10-28 complete, elapsed time: 0s
+2016-06-21 00:04:08,311 INFO - Hour 2016-11-01 ETL start
+2016-06-21 00:04:08,312 INFO - Hour 2016-10-21 complete, elapsed time: 0s
+2016-06-21 00:04:08,313 INFO - Hour 2016-11-02 ETL start
+2016-06-21 00:04:08,314 INFO - Hour 2016-10-31 complete, elapsed time: 0s
+2016-06-21 00:04:08,315 INFO - Hour 2016-11-03 ETL start
+2016-06-21 00:04:08,315 INFO - Hour 2016-11-01 complete, elapsed time: 0s
+2016-06-21 00:04:08,316 INFO - Hour 2016-10-24 complete, elapsed time: 0s
+2016-06-21 00:04:08,316 INFO - Hour 2016-11-05 ETL start
+2016-06-21 00:04:08,317 INFO - Hour 2016-11-02 complete, elapsed time: 0s
+2016-06-21 00:04:08,317 INFO - Hour 2016-11-06 ETL start
+2016-06-21 00:04:08,317 INFO - Hour 2016-11-04 ETL start
+2016-06-21 00:04:08,317 INFO - Hour 2016-10-30 complete, elapsed time: 0s
+2016-06-21 00:04:08,318 INFO - Hour 2016-11-07 ETL start
+2016-06-21 00:04:08,324 INFO - Hour 2016-11-06 complete, elapsed time: 0s
+2016-06-21 00:04:08,324 INFO - Hour 2016-11-04 complete, elapsed time: 0s
+2016-06-21 00:04:08,325 INFO - Hour 2016-11-05 complete, elapsed time: 0s
+2016-06-21 00:04:08,325 INFO - Hour 2016-11-08 ETL start
+2016-06-21 00:04:08,325 INFO - Hour 2016-11-09 ETL start
+2016-06-21 00:04:08,325 INFO - Hour 2016-11-10 ETL start
+2016-06-21 00:04:08,326 INFO - Hour 2016-11-07 complete, elapsed time: 0s
+2016-06-21 00:04:08,326 INFO - Hour 2016-11-11 ETL start
+2016-06-21 00:04:08,331 INFO - Hour 2016-11-09 complete, elapsed time: 0s
+2016-06-21 00:04:08,331 INFO - Hour 2016-11-03 complete, elapsed time: 0s
+2016-06-21 00:04:08,331 INFO - Hour 2016-11-10 complete, elapsed time: 0s
+2016-06-21 00:04:08,331 INFO - Hour 2016-11-08 complete, elapsed time: 0s
+2016-06-21 00:04:08,331 INFO - Hour 2016-11-12 ETL start
+2016-06-21 00:04:08,331 INFO - Hour 2016-11-13 ETL start
+2016-06-21 00:04:08,331 INFO - Hour 2016-11-14 ETL start
+2016-06-21 00:04:08,332 INFO - Hour 2016-11-11 complete, elapsed time: 0s
+2016-06-21 00:04:08,332 INFO - Hour 2016-11-15 ETL start
+2016-06-21 00:04:08,332 INFO - Hour 2016-11-16 ETL start
+2016-06-21 00:04:08,334 INFO - Hour 2016-11-12 complete, elapsed time: 0s
+2016-06-21 00:04:08,335 INFO - Hour 2016-11-17 ETL start
+2016-06-21 00:04:08,337 INFO - Hour 2016-11-13 complete, elapsed time: 0s
+2016-06-21 00:04:08,337 INFO - Hour 2016-11-18 ETL start
+2016-06-21 00:04:08,337 INFO - Hour 2016-11-15 complete, elapsed time: 0s
+2016-06-21 00:04:08,338 INFO - Hour 2016-11-19 ETL start
+2016-06-21 00:04:08,338 INFO - Hour 2016-11-14 complete, elapsed time: 0s
+2016-06-21 00:04:08,338 INFO - Hour 2016-11-20 ETL start
+2016-06-21 00:04:08,338 INFO - Hour 2016-11-17 complete, elapsed time: 0s
+2016-06-21 00:04:08,338 INFO - Hour 2016-11-16 complete, elapsed time: 0s
+2016-06-21 00:04:08,339 INFO - Hour 2016-11-21 ETL start
+2016-06-21 00:04:08,339 INFO - Hour 2016-11-22 ETL start
+2016-06-21 00:04:08,341 INFO - Hour 2016-11-18 complete, elapsed time: 0s
+2016-06-21 00:04:08,341 INFO - Hour 2016-11-23 ETL start
+2016-06-21 00:04:08,341 INFO - Hour 2016-11-19 complete, elapsed time: 0s
+2016-06-21 00:04:08,341 INFO - Hour 2016-11-24 ETL start
+2016-06-21 00:04:08,343 INFO - Hour 2016-11-21 complete, elapsed time: 0s
+2016-06-21 00:04:08,343 INFO - Hour 2016-11-25 ETL start
+2016-06-21 00:04:08,344 INFO - Hour 2016-11-20 complete, elapsed time: 0s
+2016-06-21 00:04:08,344 INFO - Hour 2016-11-22 complete, elapsed time: 0s
+2016-06-21 00:04:08,344 INFO - Hour 2016-11-26 ETL start
+2016-06-21 00:04:08,344 INFO - Hour 2016-11-27 ETL start
+2016-06-21 00:04:08,344 INFO - Hour 2016-11-23 complete, elapsed time: 0s
+2016-06-21 00:04:08,345 INFO - Hour 2016-11-28 ETL start
+2016-06-21 00:04:08,346 INFO - Hour 2016-11-24 complete, elapsed time: 0s
+2016-06-21 00:04:08,346 INFO - Hour 2016-11-29 ETL start
+2016-06-21 00:04:08,347 INFO - Hour 2016-11-25 complete, elapsed time: 0s
+2016-06-21 00:04:08,347 INFO - Hour 2016-11-30 ETL start
+2016-06-21 00:04:08,349 INFO - Hour 2016-11-27 complete, elapsed time: 0s
+2016-06-21 00:04:08,349 INFO - Hour 2016-11-26 complete, elapsed time: 0s
+2016-06-21 00:04:08,349 INFO - Hour 2016-11-28 complete, elapsed time: 0s
+2016-06-21 00:04:08,350 INFO - Hour 2016-12-01 ETL start
+2016-06-21 00:04:08,351 INFO - Hour 2016-12-03 ETL start
+2016-06-21 00:04:08,351 INFO - Hour 2016-12-02 ETL start
+2016-06-21 00:04:08,351 INFO - Hour 2016-11-30 complete, elapsed time: 0s
+2016-06-21 00:04:08,352 INFO - Hour 2016-12-04 ETL start
+2016-06-21 00:04:08,352 INFO - Hour 2016-11-29 complete, elapsed time: 0s
+2016-06-21 00:04:08,353 INFO - Hour 2016-12-01 complete, elapsed time: 0s
+2016-06-21 00:04:08,353 INFO - Hour 2016-12-05 ETL start
+2016-06-21 00:04:08,353 INFO - Hour 2016-12-06 ETL start
+2016-06-21 00:04:08,355 INFO - Hour 2016-12-03 complete, elapsed time: 0s
+2016-06-21 00:04:08,355 INFO - Hour 2016-12-07 ETL start
+2016-06-21 00:04:08,356 INFO - Hour 2016-12-02 complete, elapsed time: 0s
+2016-06-21 00:04:08,356 INFO - Hour 2016-12-04 complete, elapsed time: 0s
+2016-06-21 00:04:08,356 INFO - Hour 2016-12-08 ETL start
+2016-06-21 00:04:08,358 INFO - Hour 2016-12-06 complete, elapsed time: 0s
+2016-06-21 00:04:08,358 INFO - Hour 2016-12-05 complete, elapsed time: 0s
+2016-06-21 00:04:08,359 INFO - Hour 2016-12-07 complete, elapsed time: 0s
+2016-06-21 00:04:08,360 INFO - Hour 2016-12-08 complete, elapsed time: 0s
