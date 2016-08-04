@@ -8,10 +8,15 @@ public class LinkNodes {
     public static void main(String args[]) {
         Node root = createTree();
         transform(root);
-        root.print();
-        root.leftChild.print();
-        root.leftChild.leftChild.print();
-        root.leftChild.leftChild.leftChild.print();
+        printLevels(root);
+
+    }
+
+    private static void printLevels(final Node root) {
+        if (root!= null) {
+            root.print();
+            printLevels(root.leftChild);
+        }
     }
 
     private static void transform(final Node root) {
